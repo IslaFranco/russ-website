@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+    color: rgb(139, 139, 139);
+    font-family: 'Courier Prime', monospace;
+    font-size: 15px;
+}
+.russell{
+    color:  rgb(139, 139, 139);
+    font-size: 16px;
+    text-decoration: italic;
+    font-family: 'Courier Prime', monospace;
+}
+body {
+    position: relative;
+    top: 30px;
+    left: 450px;
+}
